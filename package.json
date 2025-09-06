@@ -1,0 +1,32 @@
+{
+  "name": "css-is-not-a-cake",
+  "version": "1.0.0",
+  "description": "Презентация о препроцессорах CSS, в частности — Sass. Сравнение возможностей Sass с аналогами в нативном CSS.",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "CSS",
+    "Sass",
+    "препроцессоры",
+    "презентация",
+    "веб-разработка",
+    "фронтенд",
+    "Keynote",
+    "презентация по Sass",
+    "CSS Custom Properties",
+    "миксины",
+    "вложенность",
+    "наследование"
+  ],
+  "author": {
+    "name": "Veronika Novikova",
+    "url": "https://github.com/niktariy"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niktariy/CSS-is-not-a-cake.git"
+  }
+}
